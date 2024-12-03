@@ -1,0 +1,13 @@
+package com.security.oauthkeyloak.oauthkeyloak.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@RequestMapping
+public class UserController {
+	
+	@GetMapping("/home")
+	public String home() {
+		return "home";
+	}
+
+}

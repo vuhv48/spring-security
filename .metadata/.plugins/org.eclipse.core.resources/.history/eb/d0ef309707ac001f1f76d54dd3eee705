@@ -1,0 +1,21 @@
+package com.security.oauthkeyloak.oauthkeyloak.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+@RequestMapping
+public class UserController {
+	
+	@GetMapping("/home")
+	public String home(@RequestParam String email) {
+	    return "home";
+	}
+	
+	
+	@GetMapping("/secured")
+	public String secured() {
+		return "secured";
+	}
+
+}

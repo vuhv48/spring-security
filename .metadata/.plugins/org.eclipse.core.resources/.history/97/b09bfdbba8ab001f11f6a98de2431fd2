@@ -1,0 +1,24 @@
+package interview;
+
+public class Onepay {
+	public static void main(String[] args) {
+//		String s1 = "abcd";
+//		String s2 = "abecd";
+//		
+//		int j = -1;
+//		for(int i = 0; i < s2.length(); i++) {
+//			j++;
+//			if(j >= s1.length()) {
+//				j = s1.length() - 1;
+//			}
+//			if(s2.charAt(i) != s1.charAt(j)) {
+//				System.out.print(s2.charAt(i));
+//			}
+//		}
+		
+		Course course = new Course("1", "Toan");
+		course.name("Van");
+		System.out.print(course);
+	}
+
+}

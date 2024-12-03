@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="jwtAuthenticationConverter"/>
+		<item value="JwtAuthenticationTokenConverter"/>
+		<item value="security.oauth2.client.provider.keycloak.jwk-set-uri=http://localhost:8084/realms/ezeabankdev/protocol/openid-connect/certs"/>
+		<item value="http://localhost:8084/realms/ezeabankdev/protocol/openid-connect/certs"/>
+		<item value="validateToken"/>
+		<item value="createJwtToken"/>
+		<item value="extractAllClaims"/>
+		<item value="authenticate"/>
+		<item value="CustomAuthenticationProvider"/>
+		<item value="customAuthenticationProvider"/>
+		<item value="authenticationManager"/>
+	</list>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="0d623579-dc26-482f-a603-df870c78191b"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="552"/>
+		<item key="DIALOG_Y_ORIGIN" value="184"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="400"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

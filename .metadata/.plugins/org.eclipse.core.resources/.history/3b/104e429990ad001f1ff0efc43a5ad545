@@ -1,0 +1,5 @@
+package com.oauthcloak_react.oauth_cloak_react.security;
+
+public class WebSecurityConfig {
+
+}

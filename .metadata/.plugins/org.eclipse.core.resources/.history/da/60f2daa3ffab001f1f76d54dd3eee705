@@ -1,0 +1,5 @@
+package com.security.oauthkeyloak.oauthkeyloak.config;
+
+public class SecurityConfig {
+
+}
